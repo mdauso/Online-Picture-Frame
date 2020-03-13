@@ -1,10 +1,10 @@
 ![finisched Picture Frame](https://cafebrick.files.wordpress.com/2020/01/img_6452.jpg "Online Pictureframe")
 
-Online Pictureframe
------------------- v0.1
-                   by mdauso, via mobileread.com
-                   thanks to the great folks in the Kindle developer corner
-                   special thanks to _nico and bugfinder
+Online Pictureframe V010
+
+by mdauso, via mobileread.com
+thanks to the great folks in the Kindle developer corner
+special thanks to _nico and bugfinder
 
 The Online Pictureframe was written to use a Kindle PW as a Pictureframe.
 The Idea is to place the Pictureframe at Grandmas & Grandpas house and
@@ -49,17 +49,27 @@ Configuration
 Edit the following in onlinepictureframe/bin/pictureframe.sh
 
 #FTPS Server the pictures are located on
+
 USER="xxx"          # FTPS user
+
 PASSWORT="xxx"      # FTPS password
+
 PORT="xxx"          # port of FTPS-Server
+
 FTPADRESSE="xxx"    # DynDNS adress of FTPS server
 
+
 #Where will the picture frame be located
-#HOSTNAME="xxx"
-HOSTNAME="xxx"
+
 #HOSTNAME="xxx"
 
+HOSTNAME="xxx"
+
+#HOSTNAME="xxx"
+
+
 ROUTERIP="192.168.178.1"   # Standard Gateway AVM Fritz!Box
+
 #ROUTERIP="192.168.2.1"    # Standard Gateway Telekom Speedport
 
 
