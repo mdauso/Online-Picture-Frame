@@ -1,7 +1,9 @@
 ![finisched Picture Frame](https://cafebrick.files.wordpress.com/2020/01/img_6452.jpg "Online Pictureframe")
 
-**Online Pictureframe V010**
+
+**Online Pictureframe**
 --------------------------------------------------------------------------------------
+
 
 by mdauso, via mobileread.com
 thanks to the great folks in the Kindle developer corner
@@ -35,16 +37,10 @@ The kindle wil restart. Once started you have 2 minutes to go tho KUAL and disab
 auto download in Online-Pictureframe section.
 
 
-
-Disclaimer
-----------
-As usual please be advised that you are using this extension on your own risk. 
-
-
 Prerequisites
 -------------
 
-You must have KUAL v2 or later installed.
+You must have KUAL v2 or later, Linkss, USBnet and Phyton(not really shure) installed.
 
 
 Installation
@@ -104,4 +100,8 @@ from the extensions directory.
 Want to know more?
 ---------------------
 For more Information go to (https://marios-blog.com/2020/01/22/digitaler-bilderrahmen-mit-kindle-paperwhite/)
+
+Disclaimer
+----------
+As usual please be advised that you are using this extension on your own risk. 
 
