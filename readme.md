@@ -100,5 +100,5 @@ from the extensions directory.
 
 Want to know more?
 ---------------------
-For more Information go to (https://marios-blog.com)
+For more Information go to (https://marios-blog.com/2020/01/22/digitaler-bilderrahmen-mit-kindle-paperwhite/)
 
