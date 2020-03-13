@@ -1,0 +1,11 @@
+{
+	"items": [
+		{"name": "Online-Pictureframe",
+			"items" : [
+				{"name": "Test Upload Log",  "priority":0, "action": "bin/UploadLog.sh"},
+				{"name": "Autostart aktivieren",       "priority":0, "action": "bin/enable.sh",  "if": "\"/etc/upstart/pictureframe.conf\" -f !" },
+				{"name": "Autostart deaktivieren",     "priority":0, "action": "bin/disable.sh", "if": "\"/etc/upstart/pictureframe.conf\" -f" }
+			]
+		}
+	]
+}
