@@ -1,6 +1,6 @@
 ![finisched Picture Frame](https://cafebrick.files.wordpress.com/2020/01/img_6452.jpg "Online Pictureframe")
 
-Online Pictureframe V010
+**Online Pictureframe V010**
 
 by mdauso, via mobileread.com
 thanks to the great folks in the Kindle developer corner
@@ -32,7 +32,7 @@ As usual please be advised that you are using this extension on your own risk.
 Prerequisites
 -------------
 
-* You must have KUAL v2 or later installed.
+You must have KUAL v2 or later installed.
 
 
 Installation
@@ -48,29 +48,26 @@ Configuration
 
 Edit the following in onlinepictureframe/bin/pictureframe.sh
 
-#FTPS Server the pictures are located on
+FTPS Server the pictures are located on
 
-USER="xxx"          # FTPS user
+USER="xxx"           FTPS user
 
-PASSWORT="xxx"      # FTPS password
+PASSWORT="xxx"       FTPS password
 
-PORT="xxx"          # port of FTPS-Server
+PORT="xxx"           port of FTPS-Server
 
-FTPADRESSE="xxx"    # DynDNS adress of FTPS server
+FTPADRESSE="xxx"     DynDNS adress of FTPS server
 
 
-#Where will the picture frame be located
-
-#HOSTNAME="xxx"
+Where will the picture frame be located
 
 HOSTNAME="xxx"
+HOSTNAME="xxx"
+HOSTNAME="xxx"
 
-#HOSTNAME="xxx"
 
-
-ROUTERIP="192.168.178.1"   # Standard Gateway AVM Fritz!Box
-
-#ROUTERIP="192.168.2.1"    # Standard Gateway Telekom Speedport
+ROUTERIP="192.168.178.1"   Standard Gateway AVM Fritz!Box
+ROUTERIP="192.168.2.1"     Standard Gateway Telekom Speedport
 
 
 Use
