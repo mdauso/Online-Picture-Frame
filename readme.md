@@ -11,7 +11,7 @@ The Online Pictureframe was written to use a Kindle PW as a Pictureframe.
 The Idea is to place the Pictureframe at Grandmas & Grandpas house and
 send to them an updated picture once a day or more or less.
 
-The Pictureframe logs in to my private router and loads a special picture
+The Pictureframe logs in to a FTPS server and loads a special picture
 if there is. The picture can be uploaded directly from any device by using
 ftp upload.
 
