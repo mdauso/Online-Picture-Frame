@@ -23,10 +23,12 @@ This script will get the Kindle to sleep and wakes it up at midnight.
 The Pictureframe only accepts pictures saved in the following format: “abc.JPG”.
 Please note that the picture file name is case sensitive.
 
-By have a folder named "newscript" you are able to place an updated pictureframe.sh
-script there. The kindle will check for a new script on the FTPS server and if
-there it will be downloaded, installed and the kindle will be rebooted to run the
-new script. ThereS no need to place the script on the kindle by using SSH or USB. 
+By having a folder named "newscript" on the FTPS server you are able to place an
+updated pictureframe.sh script there.
+The kindle will check for a new script on the FTPS server everytime when serching for
+a new picture and if a new script is there it will be downloaded, installed and
+the kindle will be rebooted to run the new script.
+Theres no need to place the script on the kindle by using SSH or USB. 
 
 If you want to stop the script from running press kindles button for more than 20 sec.
 The kindle wil restart. Once started you have 2 minutes to go tho KUAL and disable
@@ -95,3 +97,8 @@ Uninstalling
 ------------
 It is recommended to disable auto-updates prior to deleting the folder
 from the extensions directory.
+
+
+For more Information go to [marios-blog.com](https://marios-blog.com]
+
+Für weitere Informationen [hier](http://domain.de) klicken.
