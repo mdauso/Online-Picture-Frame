@@ -82,7 +82,10 @@ FTPADRESSE="xxx"
 
 HOSTNAME="xxx"
 
-**Standard Gateway AVM Fritz!Box**
+This is needed because I have two Picture Frames at different locations.
+On the FTPS server I have different folders, one per location.
+
+**Standard Gateway of your router**
 
 ROUTERIP="192.168.178.1"   
 
