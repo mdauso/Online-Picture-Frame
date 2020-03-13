@@ -98,7 +98,7 @@ Uninstalling
 It is recommended to disable auto-updates prior to deleting the folder
 from the extensions directory.
 
+Want to know more?
+---------------------
+For more Information go to (https://marios-blog.com)
 
-For more Information go to [marios-blog.com](https://marios-blog.com]
-
-Für weitere Informationen [hier](http://domain.de) klicken.
