@@ -1,6 +1,7 @@
 ![finisched Picture Frame](https://cafebrick.files.wordpress.com/2020/01/img_6452.jpg "Online Pictureframe")
 
 **Online Pictureframe V010**
+--------------------------------------------------------------------------------------
 
 by mdauso, via mobileread.com
 thanks to the great folks in the Kindle developer corner
@@ -49,36 +50,29 @@ Configuration
 Edit the following in onlinepictureframe/bin/pictureframe.sh
 
 FTPS Server the pictures are located on
+**FTPS user**
+USER="xxx"          
+**FTPS password**
+PASSWORT="xxx"       
+**port of FTPS-Server**
+PORT="xxx"           
+**DynDNS adress of FTPS server**
+FTPADRESSE="xxx"     
 
-USER="xxx"           FTPS user
-
-PASSWORT="xxx"       FTPS password
-
-PORT="xxx"           port of FTPS-Server
-
-FTPADRESSE="xxx"     DynDNS adress of FTPS server
-
-
-Where will the picture frame be located
-
-HOSTNAME="xxx"
-HOSTNAME="xxx"
+**Where will the picture frame be located
 HOSTNAME="xxx"
 
-
-ROUTERIP="192.168.178.1"   Standard Gateway AVM Fritz!Box
-ROUTERIP="192.168.2.1"     Standard Gateway Telekom Speedport
+**Standard Gateway AVM Fritz!Box**
+ROUTERIP="192.168.178.1"   
 
 
 Use
 ---
-
 Run KUAL and enter the "Online-Pictureframe Section". You can also enable or
 disable the auto-download.
 
 
 Uninstalling
 ------------
-
 It is recommended to disable auto-updates prior to deleting the folder
 from the extensions directory.
