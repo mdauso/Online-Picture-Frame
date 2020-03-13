@@ -50,19 +50,18 @@ Configuration
 Edit the following in onlinepictureframe/bin/pictureframe.sh
 
 FTPS Server the pictures are located on
-**FTPS user**
-USER="xxx"          
-**FTPS password**
+---------------------------
+USER="xxx"   
 PASSWORT="xxx"       
-**port of FTPS-Server**
 PORT="xxx"           
-**DynDNS adress of FTPS server**
 FTPADRESSE="xxx"     
 
-**Where will the picture frame be located
+**Where will the picture frame be located**
+
 HOSTNAME="xxx"
 
 **Standard Gateway AVM Fritz!Box**
+
 ROUTERIP="192.168.178.1"   
 
 
